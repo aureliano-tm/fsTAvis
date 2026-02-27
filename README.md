@@ -59,3 +59,4 @@ Explore and visualize your transient absorption data.
 ---
 
 ## License
+This project is licensed under the MIT License.
