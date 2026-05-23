@@ -4,6 +4,26 @@
 
 ---
 
+## Preview
+
+### Data Visualization
+2D Plot of Entire Data
+<img width="1610" height="1182" alt="1" src="https://github.com/user-attachments/assets/091cedc6-f210-4803-b560-411c00d80a66" />
+1D Plot of Extracted Spectra
+<img width="1586" height="1186" alt="2" src="https://github.com/user-attachments/assets/0618534c-c73c-4a15-b29b-716ace4cac7c" />
+1D Plot of Extracted Kinetics
+<img width="1352" height="972" alt="3" src="https://github.com/user-attachments/assets/9cd66c31-3ea8-4ea3-8332-3777a3ae766f" />
+
+### Data Analysis
+Single Wavelength Fitting
+<img width="1590" height="1184" alt="7" src="https://github.com/user-attachments/assets/d211b78b-6db9-4097-a27d-1f1f9e4750f3" />
+Global Fitting
+<img width="1964" height="694" alt="5" src="https://github.com/user-attachments/assets/2407a689-fed9-4330-b611-686b43204464" />
+<img width="1998" height="770" alt="4" src="https://github.com/user-attachments/assets/e1a63b09-ed43-4329-bfdc-afaa9e6d7fa9" />
+<img width="868" height="546" alt="6" src="https://github.com/user-attachments/assets/ddce3ffa-0729-4914-81e2-9d27d5269e89" />
+
+---
+
 ## Overview
 
 The notebooks are designed to provide a lightweight and flexible workflow for handling ultrafast transient absorption datasets, including preprocessing, spectral inspection, and data visualization.
