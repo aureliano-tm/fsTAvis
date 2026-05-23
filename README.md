@@ -1,6 +1,6 @@
 # fsTAvis
 
-**fsTAvis** is a collection of Jupyter Notebooks written in Python for the processing, visualization, and analysis of femtosecond and nanosecond transient absorption (fs/ns-TA) spectroscopy data.
+**fsTAvis** is a collection of Jupyter Notebooks written in **Python** for the processing, visualization, and analysis of femtosecond and nanosecond transient absorption (fs/ns-TA) spectroscopy data.
 
 ---
 
