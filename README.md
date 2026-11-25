@@ -26,7 +26,7 @@ Global Fitting
 
 ## Overview
 
-The notebooks are designed to provide a lightweight and flexible workflow for handling ultrafast transient absorption datasets, including preprocessing, spectral inspection, and data visualization.
+The notebooks are designed to provide a lightweight and flexible workflow for handling transient absorption spectroscopic data, including preprocessing, spectral analysis, and data visualization.
 
 ---
 
